@@ -6,7 +6,7 @@ authors = ["Justin Boyer <justin@opensyllabus.org>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-transformers = ">=3.1.0,<3.4.0"
+transformers
 tqdm = "^4.50.2"
 torch = ">=1.2.0"
 numpy = "^1.19.2"
